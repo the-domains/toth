@@ -1,3 +1,4 @@
+typography_spectrum: 0.416134730912745
 color:
   brandColors:
     - '#468AC8'
@@ -7,11 +8,13 @@ color:
   lightness: 0.4570630663074553
   rhythmicContrast: 0.816791663877666
   saturation: 0.0514647108502686
+opengraph:
+  appId: 'https://www.facebook.com/toth.cl/'
 layout_spectrum: 0.5105130723677576
+author:
+  name: Andres Valdivieso
+  email: avaldivieso@toth.life
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/76c9c8c9-5c48-4463-a996-0fdcf45d2d51.png
 name: TOTH
-opengraph:
-  appId: 'https://www.facebook.com/toth.cl/'
 title: TOTH
-typography_spectrum: 0.416134730912745
