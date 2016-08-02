@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[TOTH]]></title>
         <description><![CDATA[TOTH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/toth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 23:50:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 23:50:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/toth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sage Bionetworks Advocates for Open Systems in Health Research]]></title>
+            <description><![CDATA[<article><h1>Sage Bionetworks Advocates for Open Systems in Health Research</h1><p>SEATTLE--()--Sage Bionetworks, a nonprofit biomedical research organization, continues its work to redefine the way in which health data is gathered, shared and used through the use of open systems, incentives and norms. In a Nature commentary published today, a set of governing principles for digital health data analysis that are designed to maximize the contribution of large-scale digital data to advancing medical care are described.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c304b30d0e3705163c34675ac3a35b8fdc21af.png"></article>]]></description>
+            <link>http://www.businesswire.com/news/home/20160720006253/en/Sage-Bionetworks-Advocates-Open-Systems-Health-Research</link>
+            <guid isPermaLink="false">253216f1-f53c-436e-87f1-4796c356955f</guid>
+            <pubDate>Tue, 02 Aug 2016 23:50:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Breathalyzer with Webcam and GPS Cleared by FDA |]]></title>
             <description><![CDATA[<article><h1>Breathalyzer with Webcam and GPS Cleared by FDA |</h1><p>Compliance testing can be an important part of an alcohol rehab program. There are many alcohol breathalyzers on the market, but they generally require a trusted individual to perform the test to prevent forging of the results.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3b03c45a9af6636bac6cc5375b02adf9/noop.jpg?input=https%3A%2F%2F2nznub4x5d61ra4q12fyu67t-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSoberlink.jpg"></article>]]></description>
